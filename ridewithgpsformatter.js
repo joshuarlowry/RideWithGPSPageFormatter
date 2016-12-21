@@ -1,6 +1,4 @@
 <script type="text/javascript">
-var routeID = 6396466;
-
 function formatHTML(routeID, elementID)
 {
     var baseurl = "http://ridewithgps.com/routes/"+routeID;
