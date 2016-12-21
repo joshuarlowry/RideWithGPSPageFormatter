@@ -1,4 +1,3 @@
-<script type="text/javascript">
 function formatHTML(routeID, elementID)
 {
     var baseurl = "http://ridewithgps.com/routes/"+routeID;
@@ -33,4 +32,3 @@ function wrapListItem(str)
 {
     return "<li>"+str+"</li>";
 }
-</script>
